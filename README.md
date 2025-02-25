@@ -1,4 +1,4 @@
 # AE_os
 32 bit os
 ```
-wget -O https://raw.githubusercontent.com/kriperovich2/ae_os/main
+git clone https://github.com/Kriperovich2/AE_os.git
